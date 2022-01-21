@@ -2,7 +2,7 @@
   background-color: hsl(356, 100%, 66%);
   padding: 0 100px;
 }
-#navbarDropdown{
+.nav-head{
   color: white;
   padding-left: 30px;
 }
